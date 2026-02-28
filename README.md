@@ -38,7 +38,7 @@ PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫
 ### Featured Projects / Portfolio
 詳細は専用リポジトリ → **[portfolio](https://github.com/hassi-dev83/portfolio)** をチェック！
 
-- **LINE LIFF 簡易予約ツール**（個人デモ）  
+- **LINE LIFF 簡易予約ツール**（個人デモ作成予定）  
   Vue.js 3 + LIFF SDK + Laravel API + Docker（Railway/Vercelデプロイ）  
   LINE認証・予約CRUD・通知連携を実装
 
@@ -50,7 +50,7 @@ PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫
   EC2/ECS/RDS/S3/R53/SMS を活用したフルスタック環境構築  
   構成図（Draw.io）で公開中
 
-### Real Experience (守秘義務考慮)
+### Real Experience
 - PM/SE/PGとしてSESフルリモート案件1年継続（Laravel/Vue.js/AWS中心）
 - 中小規模WEBシステムの請負開発・保守・改修
 - SQL Server / Windows Server 構築・設計経験
