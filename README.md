@@ -13,7 +13,7 @@
 ### About Me
 Laravel + Vue.jsを中心としたフルスタックWEBエンジニアです。  
 PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫で対応。  
-現在、ユーピーアール経由のフルリモートSES（1年継続中）でLaravel/Vue.js/LIFF/AWSを活用しています。  
+現在、請負開発と並行しフルリモートSES（1年継続中）でLaravel/Vue.js/LIFF/AWSを活用しています。  
 平日夜・土日で副業/フリーランス案件を募集中です！
 
 - 🌱 現在強化中: TypeScript, AWS個人環境構築（Free Tier活用予定）
@@ -46,7 +46,7 @@ PM/SE/PGとして要件定義〜実装・保守・顧客折衝まで一気通貫
   Laravel 11 + Vue.js 3 (Composition API) + Docker  
   AWS移行想定の構成（SES実務ベース）
 
-- **AWS構築実績（SES経験）**  
+- **AWS構築実績（自社/請負/SES経験）**  
   EC2/ECS/RDS/S3/R53/SMS を活用したフルスタック環境構築  
   構成図（Draw.io）で公開中
 
